@@ -9,3 +9,7 @@ HTML,CSS,Javascript and Chart js Library
 #API Used
 
 Covid-19 API
+
+# Link:
+
+https://covidstatsviewer.netlify.app/
